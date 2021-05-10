@@ -5,7 +5,7 @@ const makePizza = function () {
     console.log("Heat 12 min in 300deg oven");
 };
 
-makePizza(2);
+
 
 const makeSushi = function () {
     console.log("Boil rice");
@@ -13,4 +13,8 @@ const makeSushi = function () {
     console.log("Roll rice and fish in seeweed");
 };
 
-makeSushi(3);
+makeSushi();
+makeSushi();
+makeSushi();
+makePizza();
+makePizza();
